@@ -1,0 +1,4 @@
+com\example\kubeintro\model\SampleModel.class
+com\example\kubeintro\controller\SampleController.class
+com\example\kubeintro\repository\SampleRepository.class
+com\example\kubeintro\KubeIntroApplication.class
